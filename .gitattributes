@@ -1,5 +1,1 @@
-Wallet-TestNet/test/ linguist-detectable=false
-<<<<<<< HEAD
-Wallet-TestNet/test/** linguist-detectable=false
-=======
->>>>>>> 8f283d93e3817f7b61b39ae8b650c69b89b33cf3
+Wallet-TestNet/test/** linguist-language=ignore
