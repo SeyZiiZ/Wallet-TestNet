@@ -79,11 +79,11 @@ const walletAddress = "Votre Adresse contrat (Sortie de npx hardhat run scripts/
 
 ### Ajouter le réseau
 - Sélectionner un réseau
-- Descende en bas et cliquez sur 'Ajouter un réseau personnalisé'
+- Descendez en bas et cliquez sur 'Ajouter un réseau personnalisé'
 - Nom du réseau : le nom que vous souhaitez
 - URL par défaut du RPC : 127.0.0.1:8545
 - ID de chaîne : 1337
-- Symbole de la devise : ETHq
+- Symbole de la devise : ETH
 - URL de l’explorateur de blocs : Vide
 - Enregistrer
 
